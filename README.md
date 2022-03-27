@@ -1,12 +1,15 @@
-# Token-grabber-Csharp-builder
+# SelfBots
+select your launcher
 
-It is token grabber and app in this 
+1 = discord
 
-ROblox dll & lua 
+2 = discord canary
 
-Discord selfbot 
+and enter your Token
 
-Discordcanary selfbot
+ all commands  :   %help
+ 
+ 0ther App in this 
 
-NaviEmu mods 
+
 
